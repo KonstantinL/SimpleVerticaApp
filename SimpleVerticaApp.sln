@@ -5,8 +5,6 @@ VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleVerticaApp", "SimpleVerticaApp\SimpleVerticaApp.csproj", "{1EDFF291-B22A-465E-BC82-DA96492D96BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logger", "..\..\Бевалекс\_KonstantinLukinov\Logger\Logger\Logger\Logger.csproj", "{12EEF785-61F1-4018-814D-C7825D75FCD2}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{1EDFF291-B22A-465E-BC82-DA96492D96BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1EDFF291-B22A-465E-BC82-DA96492D96BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1EDFF291-B22A-465E-BC82-DA96492D96BE}.Release|Any CPU.Build.0 = Release|Any CPU
-		{12EEF785-61F1-4018-814D-C7825D75FCD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{12EEF785-61F1-4018-814D-C7825D75FCD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{12EEF785-61F1-4018-814D-C7825D75FCD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{12EEF785-61F1-4018-814D-C7825D75FCD2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
